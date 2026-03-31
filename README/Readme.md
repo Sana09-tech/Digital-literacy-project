@@ -14,11 +14,11 @@
 
 
 
-##### Name: Pari Bansal
+##### Name: Sananda Bhowmik
 
 ##### 
 
-##### Course: B.Tech CSE
+##### Course: B.Tech CSE  AI & ML
 
 ##### 
 
@@ -30,7 +30,7 @@
 
 ##### 
 
-
+##### registretion no. - 25BAI11406
 
 
 
